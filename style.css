@@ -139,6 +139,7 @@ margin-left: -25px;
 
 #hero .intro p:last-child {
   font-size: 1.2rem;
+  padding: 0 20px;
 }
 
 #hero .intro h1 {
