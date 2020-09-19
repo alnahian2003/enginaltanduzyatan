@@ -35,6 +35,11 @@ img {
 }
 
 /* Navbar */
+
+.scroll {
+margin-left: -25px;
+}
+
 .nav-icon {
   right: 30px;
   top: 15px;
